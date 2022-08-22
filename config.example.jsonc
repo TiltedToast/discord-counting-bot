@@ -1,0 +1,7 @@
+{
+    "email": "", // Your discord email address
+    "password": "", // Your discord password
+    "channelId": "", // The ID of the channel to post to, rightclick on the channel and select "Copy ID"
+    "userId": "", // Your discord User ID, turn on developer options to copy it from your profile
+    "interval": 30 // How often to run the counter loop (in seconds) (30 would be every 30 seconds)
+}

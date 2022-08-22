@@ -1,0 +1,6 @@
+config.jsonc
+node_modules
+*.log
+.vscode
+dist
+cookies.txt
